@@ -19,3 +19,6 @@ doc/source/api
 doc/build
 *.egg
 glanceclient/versioninfo
+# Development environment files
+.project
+.pydevproject
